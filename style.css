@@ -1,0 +1,17 @@
+h4{
+    color: rgb(255, 4, 129);
+    background-color: gray;
+}
+
+/* Id Selector */
+#first{
+    color: rgb(253, 156, 120);
+    background-color: cornflowerblue;
+    font-style: italic;
+
+}
+.second{
+    color: rgb(147, 80, 255);
+    background-color: rgb(59, 6, 31);
+    font-size: larger;
+}
